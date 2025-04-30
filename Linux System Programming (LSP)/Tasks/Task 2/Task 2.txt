@@ -1,0 +1,7 @@
+/*NAME - Shipra Pal
+REGISTRATION NO.-2141016019
+
+Use command-line tools to perform the following tasks in Linux:
+Create a directory structure /tmp/myfiles and navigate into it.
+Create three text files, write sample content in them, and list the files in the directory.
+Change the permissions of one file to read-only for the group.*/

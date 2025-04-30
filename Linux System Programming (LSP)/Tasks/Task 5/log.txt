@@ -1,0 +1,6 @@
+error: file not found
+warning: disk space low
+error: invalid input
+info: task completed
+error: timeout
+
