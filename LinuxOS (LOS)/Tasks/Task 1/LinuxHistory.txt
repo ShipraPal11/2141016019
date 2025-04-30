@@ -1,0 +1,21 @@
+ORIGINS :
+In 1991, Linus Torvalds, a Finnish computer science student, started developing a new operating system kernel, which he named Linux. 
+
+He was inspired by the GNU Project, which aimed to create a free and open-source Unix-like operating system. 
+
+The GNU Project, led by Richard Stallman, had already developed many of the essential components for an operating system, but lacked a kernel.
+
+Torvalds released the Linux kernel under the GNU General Public License (GPL), ensuring it remained free and open source, allowing for community collaboration and development. 
+
+
+
+PRINCIPLES OF GNU/LINUX SYSTEM :
+Free and Open Source: The core principle is that the software is free to use, modify, and distribute. 
+
+Collaboration: The development of Linux is based on a collaborative model, where developers from around the world contribute to the project. 
+
+Unix-like: Linux is designed to be compatible with the Unix operating system, providing a familiar and powerful environment for users and developers. 
+
+Kernel and Distributions: The Linux kernel is the core of the operating system, but it is often combined with other software, such as the GNU utilities, to form a complete operating system known as a distribution (e.g., Ubuntu, Fedora, Debian). 
+
+GNU Project's Role: The GNU Project provides many of the essential tools and utilities that are used in conjunction with the Linux kernel to create a complete operating system. 

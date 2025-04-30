@@ -1,0 +1,1 @@
+Apr 12 11:08:36 | User: shipra | Message: Accepted password for shipra from 10.0.2.15 port 42456 ssh2
